@@ -11,9 +11,9 @@ To use this configuration in PowerShell, follow the instructions at: https://ohm
 
 ## Thanks
 
-[oh-my-posh]
-[oh-my-zsh]
-[powerlevel10k]
+* [oh-my-posh]
+* [oh-my-zsh]
+* [powerlevel10k]
 
 [oh-my-posh]: https://github.com/JanDeDobbeleer/oh-my-posh
 [powerlevel10k]: https://github.com/romkatv/powerlevel10k
