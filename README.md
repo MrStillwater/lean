@@ -1,5 +1,5 @@
 # lean
-Config for oh-my-posh based on powerlevel10k lean style
+Config for oh-my-posh based loosely on powerlevel10k lean style
 ![image](https://user-images.githubusercontent.com/31895026/131591768-c6ba39f3-20a3-481c-aa17-bfa9cf873244.png)
 
 
