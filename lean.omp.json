@@ -132,7 +132,7 @@
             "always_enabled": true,
             "display_exit_code": false,
             "error_color": "red",
-            "prefix": "$"
+            "prefix": ""
           },
           "style": "powerline",
           "type": "exit"
